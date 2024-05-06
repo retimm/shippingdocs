@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://cicn2022.org/wp-content/uploads/2022/04/zmsc-darkblur.png');
+  background-size: cover;
+  opacity: 100%;
 }
 
 code {
